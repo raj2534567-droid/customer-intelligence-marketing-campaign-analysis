@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png.png" alt="Customer Intelligence & Marketing Campaign Analysis" width="100%">
+  <img src="cover.png" alt="Customer Intelligence & Marketing Campaign Analysis" width="100%">
 </p>
 
 # Customer Intelligence & Marketing Campaign Analysis
