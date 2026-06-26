@@ -139,37 +139,37 @@ The dashboard consists of six interactive pages.
 
 ## Executive Dashboard
 
-![Executive Dashboard](Executive Dashboard.png)
+![Executive Dashboard] (ExecutiveDashboard.png)
 
 ---
 
 ## Customer Demographics
 
-![Customer Demographics](Customer Demographics.png)
+![Customer Demographics](CustomerDemographics.png)
 
 ---
 
 ## Customer Behavior
 
-![Customer Behavior](Customer Behavior.png)
+![Customer Behavior](CustomerBehavior.png)
 
 ---
 
 ## Campaign Analysis
 
-![Campaign Analysis](Campaign Analysis.png)
+![Campaign Analysis](CampaignAnalysis.png)
 
 ---
 
 ## Customer Segmentation
 
-![Customer Segmentation](Customer Segmentation.png)
+![Customer Segmentation](CustomerSegmentation.png)
 
 ---
 
 ## Insights & Recommendations
 
-![Insights & Recommendations](Insights & Recommendations.png)
+![Insights & Recommendations](Insights&Recommendations.png)
 
 ---
 
