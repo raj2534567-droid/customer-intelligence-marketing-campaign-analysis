@@ -1,4 +1,3 @@
-````markdown
 ![Project Banner](cover.png)
 
 # Customer Intelligence & Marketing Campaign Analysis
