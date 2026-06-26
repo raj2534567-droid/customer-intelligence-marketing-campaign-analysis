@@ -48,7 +48,7 @@ The objective is to generate actionable business insights that support data-driv
 
 # Project Workflow
 
-```text
+
 Data Collection
         ↓
 Data Cleaning
@@ -66,7 +66,7 @@ Machine Learning
 Power BI Dashboard
         ↓
 Business Insights & Recommendations
-```
+
 
 ---
 
@@ -197,7 +197,7 @@ The dashboard consists of six interactive pages.
 
 # Repository Contents
 
-```text
+
 📂 cleaned_supermarket_data.csv
 📂 Superstore Marketing Campaign Analysis.ipynb
 📂 Power BI Dashboard (.pbix)
@@ -205,7 +205,7 @@ The dashboard consists of six interactive pages.
 📂 Dashboard Screenshots
 📂 cover.png
 📄 README.md
-```
+
 
 ---
 
@@ -219,10 +219,9 @@ The dashboard consists of six interactive pages.
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn profile
-- GitHub: Add your GitHub profile
+- LinkedIn: https://www.linkedin.com/in/rajeshwari-patel-678866287/
 
 ---
 
 If you found this project useful, consider giving this repository a ⭐.
-````
+
